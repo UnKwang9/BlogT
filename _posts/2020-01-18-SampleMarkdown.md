@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Sample Markdown"
 description: "Markdown Monster Sample doc."
 categories: [uncategorized]
