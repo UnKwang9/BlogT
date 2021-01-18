@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "A quick demo of Simple Texture theme's code highlighting features"
 description: "A quick demo of Simple Texture theme's code highlighting features"
 categories: [demo]
