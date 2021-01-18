@@ -2,10 +2,16 @@
 layout: posts
 title: "Sample Markdown"
 description: "Markdown Monster Sample doc."
-categories: [uncategorized]
-tags: [demo]
-redirect_from:
-  - /2020/01/18/
+toc: true
+toc_sticky: true
+teaser: /assets/images/citrix.svg
+categories:
+  - Blog
+tags:
+  - demo
+last_modified_at: 2021-01-18
+---
+
 ---
 Hello World! This is the beginning of this theme.
 
