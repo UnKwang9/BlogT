@@ -2,9 +2,6 @@
 layout: posts
 title: "Sample Markdown"
 description: "Markdown Monster Sample doc."
-toc: true
-toc_sticky: true
-toc_label: "페이지 주요 목차"
 teaser: /assets/images/citrix.svg
 categories:
   - Blog
